@@ -5,7 +5,8 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 
 ---
 ## Documentations
-- [https://www.playframework.com/documentation/2.6.x/Home](https://www.playframework.com/documentation/2.6.x/Home) - Play is a high-productivity Java and Scala web application framework that integrates the components and APIs you need for modern web application development.
+- [Play Documentation](https://www.playframework.com/documentation/2.6.x/Home) - Play is a high-productivity Java and Scala web application framework that integrates the components and APIs you need for modern web application development.
+- [Play Modules](https://www.playframework.com/documentation/2.6.x/ModuleDirectory) - Public modules list to augment built-in functionality.
 
 ## Examples
 - [Boilerplay](https://github.com/KyleU/boilerplay) - Using the latest technology in the Scala ecosystem, Boilerplay is a reactive web application built on Play 2.6, ScalaJS, Silhouette 5, Sangria/GraphQL, and PostgreSQL. 
