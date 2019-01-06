@@ -5,25 +5,33 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 
 ---
 ## Libraries
+
+### Databases
 - [Anorm](https://github.com/playframework/anorm) - Anorm is a simple data access layer that uses plain SQL to interact with the database and provides an API to parse and transform the resulting datasets.
 - [Flyway](https://github.com/flyway/flyway-play) - Flyway module for Play 2.4 or later. It aims to be a substitute for play-evolutions - Version control for your database. - Robust schema evolution across all your environments
-- [jwt-scala](https://github.com/pauldijou/jwt-scala) - JWT support for Scala. Bonus extensions for Play, Play JSON.
 - [Memcached Plugin](https://github.com/mumoshu/play2-memcached) - Memcached Plugin for Play framework 2.x
+- [play-slick](https://github.com/playframework/play-slick) - Slick Plugin for Play - Functional Relational Mapping for Scala
+- [ReactiveMongo for Play Framework](https://github.com/ReactiveMongo/Play-ReactiveMongo) - This is a plugin for Play Framework 2.4 and 2.5, enabling support for ReactiveMongo – a reactive, asynchronous and non-blocking Scala driver for MongoDB.
+- [Redis Cache module](https://github.com/KarelCemus/play-redis) - Play framework 2 cache plugin as an adapter to redis-server
+
+### Security/Authentification
+- [jwt-scala](https://github.com/pauldijou/jwt-scala) - JWT support for Scala. Bonus extensions for Play, Play JSON.
+- [Play reCAPTCHA Module](https://github.com/chrisnappin/play-recaptcha) - Module that provides reactive (non-blocking) integration with Google ReCaptcha.
+- [Play2 Guard Module](https://github.com/sief/play-guard) - Play2 module for rate limiting, based on token bucket algorithm
+- [Silhouette](https://github.com/mohiva/play-silhouette) - Silhouette is an authentication library for Play Framework applications that supports several authentication methods.
+
+### Testing
+- [Play MockWS](https://github.com/leanovate/play-mockws) - Play MockWS is a mock WS client for Play Framework.
+- [ScalaTest Plus Play](https://github.com/playframework/scalatestplus-play) - ScalaTest + Play provides integration support between ScalaTest and Play Framework.
+
+### Others
 - [Pagelets](https://github.com/splink/pagelets) - Build modular applications in an elegant and concise manner.
 - [Play JsMessages](https://github.com/julienrf/play-jsmessages) - This library allows you to compute localized messages on client-side, in Play projects.
-- [Play reCAPTCHA Module](https://github.com/chrisnappin/play-recaptcha) - Module that provides reactive (non-blocking) integration with Google ReCaptcha.
-- [Play MockWS](https://github.com/leanovate/play-mockws) - Play MockWS is a mock WS client for Play Framework.
 - [play-html-compressor](https://github.com/mohiva/play-html-compressor) - Google's HTML Compressor for Play Framework 2
 - [play-mailer](https://github.com/playframework/play-mailer) - Play Mailer is a powerful Scala Mailing library. It provides a simple configurable mailer.
 - [play-metrics](https://github.com/kenshoo/metrics-play) - This module provides some support for @codahale Metrics library in a Play2 application (Scala)
 - [play-s3](https://github.com/kaliber-scala/play-s3) - Amazon Simple Storage Service (S3) module for Play 2.6
-- [play-slick](https://github.com/playframework/play-slick) - Slick Plugin for Play - Functional Relational Mapping for Scala
-- [Play2 Guard Module](https://github.com/sief/play-guard) - Play2 module for rate limiting, based on token bucket algorithm
 - [Play2 SocksJS](https://github.com/fdimuccio/play2-sockjs) - A SockJS server implementation for Play Framework.
-- [ReactiveMongo for Play Framework](https://github.com/ReactiveMongo/Play-ReactiveMongo) - This is a plugin for Play Framework 2.4 and 2.5, enabling support for ReactiveMongo – a reactive, asynchronous and non-blocking Scala driver for MongoDB.
-- [Redis Cache module](https://github.com/KarelCemus/play-redis) - Play framework 2 cache plugin as an adapter to redis-server
-- [ScalaTest Plus Play](https://github.com/playframework/scalatestplus-play) - ScalaTest + Play provides integration support between ScalaTest and Play Framework.
-- [Silhouette](https://github.com/mohiva/play-silhouette) - Silhouette is an authentication library for Play Framework applications that supports several authentication methods.
 
 ## Templates
 - [Play Framework with Scala.js](https://github.com/vmunier/play-scalajs.g8) - This is a Giter8 template showing how you can integrate a Play project with a Scala.js project.
