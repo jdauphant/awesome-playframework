@@ -50,7 +50,7 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 - [Slim Play App](https://github.com/lloydmeta/slim-play) - Wanna build a really, really slim Play project?
 
 
-## For old Play version (before 2.6)
+## Resources for old Play version (before 2.6)
 - [AnormCypher](https://github.com/AnormCypher/AnormCypher) - Play 2.5 - Neo4j client library for the HTTP Cypher transactional endpoints.
 - [Full Stack Scaka Starter](https://github.com/Algomancer/Full-Stack-Scala-Starter) - Play 2.5 - This is a simple example application showing how you can integrate a Play project with a Scala.js, Binding.scala project.
 - [MongoDB Salat plugin](https://github.com/cloudinsights/play-salat) - Play 2.4 - Salat is a ORM for MongoDBs scala driver called Casbah.
