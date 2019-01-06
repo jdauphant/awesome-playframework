@@ -4,6 +4,18 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 - Don't hesitate to report new projects or errors in PR.
 
 ---
+## Documentations
+- [https://www.playframework.com/documentation/2.6.x/Home](https://www.playframework.com/documentation/2.6.x/Home) - Play is a high-productivity Java and Scala web application framework that integrates the components and APIs you need for modern web application development.
+
+## Examples
+- [Boilerplay](https://github.com/KyleU/boilerplay) - Using the latest technology in the Scala ecosystem, Boilerplay is a reactive web application built on Play 2.6, ScalaJS, Silhouette 5, Sangria/GraphQL, and PostgreSQL. 
+- [Play 2.6 and Slick 3.2](https://github.com/nemoo/play-slick3-example) - An example app using Play Framework 2.6 and Slick 3.2.
+- [Play REST API](https://github.com/playframework/play-scala-rest-api-example) - Example Play Scala application showing REST API
+- [Play Scala Secure Session Example](https://github.com/playframework/play-scala-secure-session-example) - Shows how to do simple secure session management in Play, using the Scala API and session cookies.
+- [Play Scala Starter Example](https://github.com/playframework/play-scala-starter-example) - This is a starter application that shows how Play works. 
+- [Play with Slick 3.1](https://github.com/playframework/play-scala-isolated-slick-example) - This project shows Play working with Slick.
+- [Play Websocket](https://github.com/playframework/play-scala-websocket-example) - Example Play Scala application showing WebSocket use with Akka actors
+
 ## Libraries
 
 ### Databases
@@ -36,15 +48,6 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 ## Templates
 - [Play Framework with Scala.js](https://github.com/vmunier/play-scalajs.g8) - This is a Giter8 template showing how you can integrate a Play project with a Scala.js project.
 - [Slim Play App](https://github.com/lloydmeta/slim-play) - Wanna build a really, really slim Play project?
-
-## Examples
-- [Boilerplay](https://github.com/KyleU/boilerplay) - Using the latest technology in the Scala ecosystem, Boilerplay is a reactive web application built on Play 2.6, ScalaJS, Silhouette 5, Sangria/GraphQL, and PostgreSQL. 
-- [Play 2.6 and Slick 3.2](https://github.com/nemoo/play-slick3-example) - An example app using Play Framework 2.6 and Slick 3.2.
-- [Play REST API](https://github.com/playframework/play-scala-rest-api-example) - Example Play Scala application showing REST API
-- [Play Scala Secure Session Example](https://github.com/playframework/play-scala-secure-session-example) - Shows how to do simple secure session management in Play, using the Scala API and session cookies.
-- [Play Scala Starter Example](https://github.com/playframework/play-scala-starter-example) - This is a starter application that shows how Play works. 
-- [Play with Slick 3.1](https://github.com/playframework/play-scala-isolated-slick-example) - This project shows Play working with Slick.
-- [Play Websocket](https://github.com/playframework/play-scala-websocket-example) - Example Play Scala application showing WebSocket use with Akka actors
 
 
 ## For old Play version (before 2.6)
