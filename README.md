@@ -1,6 +1,7 @@
 # awesome-playframework
-A collaborative curated list of awesome Play Framework 2.X resources
-All projects here should support Play 2.6 at min (expect the last section), don't hesitate to report new projects or errors.
+A collaborative curated list of awesome Play Framework 2.X resources.
+- All projects here should support Play 2.6 at mininum (expect for the last section).
+- Don't hesitate to report new projects or errors in PR.
 
 ---
 ## Libraries
