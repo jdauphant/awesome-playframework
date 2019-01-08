@@ -39,8 +39,9 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 
 ### Others
 - [Pagelets](https://github.com/splink/pagelets) - Build modular applications in an elegant and concise manner.
-- [Play JsMessages](https://github.com/julienrf/play-jsmessages) - This library allows you to compute localized messages on client-side, in Play projects.
+- [play-bootstrap](https://adrianhurt.github.io/play-bootstrap) - A collection of input helpers and field constructors for Play Framework to render Bootstrap Forms HTML code.
 - [play-html-compressor](https://github.com/mohiva/play-html-compressor) - Google's HTML Compressor for Play Framework 2
+- [Play JsMessages](https://github.com/julienrf/play-jsmessages) - This library allows you to compute localized messages on client-side, in Play projects.
 - [play-mailer](https://github.com/playframework/play-mailer) - Play Mailer is a powerful Scala Mailing library. It provides a simple configurable mailer.
 - [play-metrics](https://github.com/kenshoo/metrics-play) - This module provides some support for @codahale Metrics library in a Play2 application (Scala)
 - [play-s3](https://github.com/kaliber-scala/play-s3) - Amazon Simple Storage Service (S3) module for Play 2.6
