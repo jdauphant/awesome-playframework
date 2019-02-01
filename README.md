@@ -28,7 +28,6 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 - [Redis Cache module](https://github.com/KarelCemus/play-redis) - Play framework 2 cache plugin as an adapter to redis-server
 
 ### Security/Authentification
-- [Deadbolt 2](https://github.com/schaloner/deadbolt-2) - Deadbolt is a powerful authorisation mechanism for defining access rights to certain controller methods or parts of a view.
 - [jwt-scala](https://github.com/pauldijou/jwt-scala) - JWT support for Scala. Bonus extensions for Play, Play JSON.
 - [Play reCAPTCHA Module](https://github.com/chrisnappin/play-recaptcha) - Module that provides reactive (non-blocking) integration with Google ReCaptcha.
 - [Play2 Guard Module](https://github.com/sief/play-guard) - Play2 module for rate limiting, based on token bucket algorithm
@@ -55,6 +54,7 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 
 ## Resources for old Play version (before 2.6)
 - [AnormCypher](https://github.com/AnormCypher/AnormCypher) - Play 2.5 - Neo4j client library for the HTTP Cypher transactional endpoints.
+- [Deadbolt 2](https://github.com/schaloner/deadbolt-2) - Play 2.5 - Deadbolt is a powerful authorisation mechanism for defining access rights to certain controller methods or parts of a view.
 - [Full Stack Scaka Starter](https://github.com/Algomancer/Full-Stack-Scala-Starter) - Play 2.5 - This is a simple example application showing how you can integrate a Play project with a Scala.js, Binding.scala project.
 - [MongoDB Salat plugin](https://github.com/cloudinsights/play-salat) - Play 2.4 - Salat is a ORM for MongoDBs scala driver called Casbah.
 - [Play Autosource](https://github.com/mandubian/play-autosource) - Play 2.3 - An automatic full REST + Typesafe CRUD abstract Datasource for bootstrapping a Play Framework App
