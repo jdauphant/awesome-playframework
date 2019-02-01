@@ -28,6 +28,7 @@ A collaborative curated list of awesome Play Framework 2.X resources.
 - [Redis Cache module](https://github.com/KarelCemus/play-redis) - Play framework 2 cache plugin as an adapter to redis-server
 
 ### Security/Authentification
+- [Deadbolt 2](https://github.com/schaloner/deadbolt-2) - Deadbolt is a powerful authorisation mechanism for defining access rights to certain controller methods or parts of a view.
 - [jwt-scala](https://github.com/pauldijou/jwt-scala) - JWT support for Scala. Bonus extensions for Play, Play JSON.
 - [Play reCAPTCHA Module](https://github.com/chrisnappin/play-recaptcha) - Module that provides reactive (non-blocking) integration with Google ReCaptcha.
 - [Play2 Guard Module](https://github.com/sief/play-guard) - Play2 module for rate limiting, based on token bucket algorithm
